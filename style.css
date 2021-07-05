@@ -12,10 +12,10 @@ h1{
 .half-width{
     width: 100%;
     padding-left: 5%;
-    padding-right: 5%;
+    
 }
 .half-width img{
-    width: 120%;    
+    width: 96%;    
 }
 .top-banner{
     background-image: url(image/top-banner.png);
@@ -31,5 +31,9 @@ h1{
     padding: 10px 30px;
     border-radius: 10px;
     font-weight: 700;   
+}
+.belly-banner{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
 }
 
