@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+.orange{
+    color: rgba(255, 115, 0, 0.815);
+}
+h1{
+    font-size: 70px;
+}
